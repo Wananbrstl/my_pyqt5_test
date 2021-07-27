@@ -22,8 +22,9 @@
 一共有四种不同的布局管理系统：Vertical Layout, Horizontal Layout, Grid Layout, Form Layout
 
 ## QHBoxLayout
-|'setSizeConstraint(QLayout.SizeConstraint(int))'|
-|-|-|
+'setSizeConstraint(QLayout.SizeConstraint(int))'的用法
+| 参数名称 | 模式 |
+| - | - |
 | SetDefaultConstraint | 默认模式 |
 | SetNoConstraint| 没有约束，随便改变 |
 | SetMinimumSize| 有最小的约束 |
