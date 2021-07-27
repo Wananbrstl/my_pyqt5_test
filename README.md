@@ -16,7 +16,7 @@ This just is a test project for PyQt5~
 | statusTip | 任务提示栏 |
 | text | 控件文本 |
 | shortcut | 快捷键 |
-|-|-|
+> 关于PyQt命令的详细介绍，参考<http://pyqt.sourceforge.net/Docs/PyQt5/designer.html>higglight=signal>
 
 # LEARN CONTNETS
 ## GUI窗体介绍
