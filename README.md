@@ -1,5 +1,5 @@
 # About
-This just is a test project for PyQt5~
+记录PyQt5的学习过程
 # 控件名称熟悉
 | 控件名字 | 含义 | 
 | -|-|
@@ -16,7 +16,14 @@ This just is a test project for PyQt5~
 | statusTip | 任务提示栏 |
 | text | 控件文本 |
 | shortcut | 快捷键 |
-> 关于PyQt命令的详细介绍，参考<http://pyqt.sourceforge.net/Docs/PyQt5/designer.html>higglight=signal>
+> 关于PyQt命令的详细介绍，参考<http://pyqt.sourceforge.net/Docs/PyQt5/designer.html?higglight=signal>
+
+# 布局管理
+一共有四种不同的布局管理系统：Vertical Layout, Horizontal Layout, Grid Layout, Form Layout
+
+
+## Vertical Layout
+
 
 # LEARN CONTNETS
 ## GUI窗体介绍
