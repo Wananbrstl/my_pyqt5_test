@@ -39,6 +39,9 @@
 
 ## Vertical Layout
 
+## Grid Layout
+> gridlayout.addWidget(窗口控件，行位置，列位置，要合并的行数， 要合并的列数)后两个是可选项
+> QtWidget.QSpacerItem(  )
 
 # LEARN CONTNETS
 ## GUI窗体介绍
