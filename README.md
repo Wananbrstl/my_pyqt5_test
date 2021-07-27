@@ -20,6 +20,8 @@
 
 # 布局管理
 一共有四种不同的布局管理系统：Vertical Layout, Horizontal Layout, Grid Layout, Form Layout
+---
+
 
 
 ## Vertical Layout
