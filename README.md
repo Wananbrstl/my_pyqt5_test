@@ -53,4 +53,4 @@ QMainWindow一共有四个窗口：
 
 ## QLabel
 
-### \bbox[gree]{test}
+### $ \bbox[gree]{test} $
