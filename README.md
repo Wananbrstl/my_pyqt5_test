@@ -52,3 +52,5 @@ QMainWindow一共有四个窗口：
 ### 弹出式对话框
 
 ## QLabel
+
+###\bbox[gree]{test}
